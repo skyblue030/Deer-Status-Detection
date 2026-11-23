@@ -101,6 +101,7 @@ data/captured/*.mp4
 # IDEs and editors
 .idea/
 .vscode/
+.claude/
 *.project
 *.pydevproject
 *.sublime-workspace
